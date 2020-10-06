@@ -5,7 +5,7 @@ Home: https://github.com/CartoDB/carto-python
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: SDK around CARTO's APIs
 
