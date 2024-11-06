@@ -1,5 +1,5 @@
 {% set name = "carto" %}
-{% set version = "1.11.2" %}
+{% set version = "1.11.3" %}
 
 package:
   name: {{ name }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 3e9770934d940fe750e3857078309f88fff04e8c4cf109d1f6465a066f3fc7e3
+  sha256: 62803241c902852598b5c899f677a672048481e8fade71bd0146fb1af68b61e9
 
 build:
   noarch: python
